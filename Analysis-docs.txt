@@ -1,0 +1,5 @@
+Learn Java8 concepts
+learn Python
+big data
+Docker
+Jenkins
