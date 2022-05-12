@@ -3,3 +3,4 @@ learn Python
 big data
 Docker
 Jenkins
+kafka
