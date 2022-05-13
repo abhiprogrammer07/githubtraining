@@ -4,3 +4,7 @@ big data
 Docker
 Jenkins
 kafka
+
+kubernates
+GCP
+Azure
